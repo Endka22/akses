@@ -14,6 +14,10 @@ chmod +x /usr/bin/addip
 chmod +x /usr/bin/delip
 chmod +x /usr/bin/xp-ip
 
+cd /home
+mkdr listip
+
 #finishing
+cd
 clear
 rm -f /root/install.sh
