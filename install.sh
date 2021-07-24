@@ -17,5 +17,3 @@ chmod +x /usr/bin/xp-ip
 #finishing
 clear
 rm -f /root/install.sh
-
-done
